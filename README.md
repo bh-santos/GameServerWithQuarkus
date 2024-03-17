@@ -1,4 +1,4 @@
-# nnw-game-server-quarkus
+# Game Server With Quarkus
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
